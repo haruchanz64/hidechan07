@@ -18,7 +18,7 @@ I'm an **unemployed Unity developer** with a degree of **Bachelor of Science in 
 
 - 🧑‍💻 I love tinkering with Unity editor tools and backend systems.
 - 🤫 I'm introverted, but always happy to connect over a shared love for game dev.
-- 🎮 In my free time, you'll find me playing Zelda or exploring new game mechanics.
+- 🎮 In my free time, you'll find me playing Zelda, gacha games, binging YouTube or exploring new game mechanics.
 
 ## 🌐 Portfolio
 
