@@ -1,6 +1,6 @@
-# 👋 Hi, I'm haruchanz64!
+# 👋 Hi, I'm Haru!
 
-I'm an **unemployed Unity developer** passionate about creating tools and systems that make game development smoother and more enjoyable.
+I'm an **unemployed Unity developer** with a degree of **Bachelor of Science in Entertainment and Multimedia Computing**. I am passionate about creating tools and systems that make game development smoother and more enjoyable.
 
 ## 🛠️ Tech Stack
 - **Languages:** C#
