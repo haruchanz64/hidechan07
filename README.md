@@ -33,8 +33,6 @@ I'm an **unemployed Unity developer** with a degree of **Bachelor of Science in 
 - [Threads](https://www.threads.com/@aj.prsnl)
 - [GitHub](https://www.github.com/haruchanz64)
 - **Discord:** @haruchanz64
-
-[![roadmap.sh](https://roadmap.sh/card/tall/676ca95770129741a83e381e?variant=dark&roadmaps=technical-writer)](https://roadmap.sh)
 ---
 
 _Thanks for stopping by! If you're into Unity, C#, or just want to chat about Zelda, feel free to reach out._
