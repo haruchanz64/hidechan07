@@ -3,10 +3,10 @@
 I'm a highly motivated Game Programmer and Tools Developer with a degree of **BSc in Entertainment and Multimedia Computing**. I am passionate about creating tools and systems that make game development smoother and more enjoyable.
 
 ## 🛠️ Tech Stack
-- **Languages**: C#, Java, Python, C, C++, Rust, MySQL, PHP, Dart
+- **Languages**: C#, Java, Python, C, C++, Rust, MySQL, PHP, Dart, Lua
 - **Frameworks / Libraries**: Bevy, SDL, Flutter
 - **Tools**: Git, IntelliJ, Rider, RustRover, Clang, PyCharm, Visual Studio Code
-- **Game Engines**: Unity, RPG Maker, Godot
+- **Game Engines**: Unity, RPG Maker, Godot, Roblox Studio
 
 ## 🚀 Featured Projects
 - [**Unity Event Toolkit**](https://github.com/haruchanz64/UnityEventToolkit)
