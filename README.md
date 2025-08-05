@@ -16,7 +16,7 @@ I’m passionate about creating tools and systems that make game development smo
   Extendable in-editor and in-game debug console for Unity projects.
 - [**Save Encryption Toolkit**](https://github.com/haruchanz64/SaveEncryptionToolkit)  
   Save system encryption utilities designed for integration into Unity projects.
-- [**Chocolatey Bootstrapper**](https://github.com/haruchanz64/chocolatey-bootstrapper)  
+- [**Chocolatey Bootstrapper**](https://github.com/haruchanz64/ChocolateyBootstrapper)  
   A flexible, general-purpose PowerShell script that automates software installation using Chocolatey.
 ---
 ## 🌐 Portfolio
