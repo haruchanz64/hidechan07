@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Haru!
+# 👋 Hi, I'm Aron Jake! I am also known as Haru~
 I'm a highly motivated Game Programmer and Tools Developer with a **BSc in Entertainment and Multimedia Computing**.  
 I’m passionate about creating tools and systems that make game development smoother and more enjoyable.
 ---
