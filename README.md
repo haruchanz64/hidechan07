@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Aron Jake! I am also known as Haru~
-I'm a highly motivated Game Programmer and Tools Developer with a **BSc in Entertainment and Multimedia Computing**.  
-I’m passionate about creating tools and systems that make game development smoother and more enjoyable.
+A developer with a **BSc in Entertainment and Multimedia Computing**.  
+Currently focusing on mobile development.
 ---
 ## 🛠️ Tech Stack
-- **Languages**: C#, C, C++, Rust, Java, Python, Dart, Lua, PHP, MySQL, HTML, CSS, JavaScript
-- **Frameworks / Engines**: Unity, Bevy, SDL, RPG Maker, Godot, Roblox Studio, Bootstrap  
-- **IDEs & Tools**: Visual Studio Code, Rider, IntelliJ IDEA, RustRover, PyCharm, CLion, Git  
+- **Languages**: C#,Java, Dart, MySQL
+- **Frameworks / Engines**: Unity, Flutter
+- **IDEs & Tools**: Visual Studio Code, Rider, IntelliJ IDEA, Git  
 ---
 ## 🚀 Featured Projects
 - [**Unity Event Toolkit**](https://github.com/haruchanz64/UnityEventToolkit)  
