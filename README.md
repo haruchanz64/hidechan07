@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Aron Jake! I am also known as Haru~
 A developer with a **BSc in Entertainment and Multimedia Computing**.  
-Currently focusing on mobile development.
+Your self taught Flutter and Unity developer.
 ---
 ## 🛠️ Tech Stack
 - **Languages**: C#,Java, Dart, MySQL
